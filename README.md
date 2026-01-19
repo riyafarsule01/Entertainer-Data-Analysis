@@ -1,6 +1,6 @@
 # Entertainers Data Analysis
 
-Objective 🎯
+# Objective 🎯
 Analyzing details about the entertainers by populating data and creating a dashboard in PowerBI
 
 Problem statement ❓
